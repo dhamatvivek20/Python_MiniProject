@@ -1,1 +1,2 @@
-# Python_MiniProject
+# Python_MiniProject BMI Calculator
+
